@@ -1,0 +1,1 @@
+UPDATE students SET Address = 'Bandung', status = 'active' WHERE Address IS NULL
